@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadun C Madawala</h1>
-<h3 align="center">I'm an undergraduate student in SLIIT Academy, Sri Lanka (collaborated with Bedfordshire University in UK) pursuing Bsc(Hons)Computer Science and Software Engineering degree.I'm keen to gain industry experience in the IT sector. I am passionate in Web Developing, UI Designing and Software Engineering. Enthusiastic to take new challenges, broaden my knowledge in various fields and to hone my skills.Committed to creating a career in IT with long-term ambitions to become a corporate worker.</h3>
+<h3 align="center">I'm keen to gain industry experience in the IT sector. I am passionate in Web Developing, UI Designing and Software Engineering. Enthusiastic to take new challenges, broaden my knowledge in various fields and to hone my skills.Committed to creating a career in IT with long-term ambitions to become a corporate worker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadunmadawala&label=Profile%20views&color=0e75b6&style=flat" alt="nadunmadawala" /> </p>
 
